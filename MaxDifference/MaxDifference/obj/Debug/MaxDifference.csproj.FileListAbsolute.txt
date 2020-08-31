@@ -1,0 +1,13 @@
+D:\Ivo\Програми\Internship\MaxDifference\MaxDifference\bin\Debug\MaxDifference.exe.config
+D:\Ivo\Програми\Internship\MaxDifference\MaxDifference\bin\Debug\MaxDifference.exe
+D:\Ivo\Програми\Internship\MaxDifference\MaxDifference\bin\Debug\MaxDifference.pdb
+D:\Ivo\Програми\Internship\MaxDifference\MaxDifference\obj\Debug\MaxDifference.csprojResolveAssemblyReference.cache
+D:\Ivo\Програми\Internship\MaxDifference\MaxDifference\obj\Debug\MaxDifference.exe
+D:\Ivo\Програми\Internship\MaxDifference\MaxDifference\obj\Debug\MaxDifference.pdb
+D:\Programming\Internship\MaxDifference\MaxDifference\bin\Debug\MaxDifference.exe.config
+D:\Programming\Internship\MaxDifference\MaxDifference\bin\Debug\MaxDifference.exe
+D:\Programming\Internship\MaxDifference\MaxDifference\bin\Debug\MaxDifference.pdb
+D:\Programming\Internship\MaxDifference\MaxDifference\obj\Debug\MaxDifference.csprojAssemblyReference.cache
+D:\Programming\Internship\MaxDifference\MaxDifference\obj\Debug\MaxDifference.csproj.CoreCompileInputs.cache
+D:\Programming\Internship\MaxDifference\MaxDifference\obj\Debug\MaxDifference.exe
+D:\Programming\Internship\MaxDifference\MaxDifference\obj\Debug\MaxDifference.pdb
